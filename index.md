@@ -17,4 +17,10 @@
 ##### 🧩 Explicación  
 ###### 📚 Nota  
 
-[Ir a Unidad 1](unidades/Unidad1.md)
+# 💼 Portafolio Digital – Teoría de la Programación
+
+## 📋 Índice de Unidades
+- [🧩 Unidad 1 – Fundamentos de la Programación](unidades/Unidad1.md)
+- [🧠 Unidad 2 – Paradigmas de Programación](unidades/Unidad2.md)
+- [🧾 Conclusiones](conclusiones.md)
+- [🤖 Uso de la IA Generativa](ia.md)
