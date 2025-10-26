@@ -21,6 +21,6 @@
 
 ## 📋 Índice de Unidades
 - [🧩 Unidad 1 –´[unidad1](Unidad1.md)
-- [🧠 Unidad 2 – Paradigmas de Programación](unidades/Unidad2.md)
+- [Algoritmo](unidades/Unidad2.md)
 - [🧾 Conclusiones](conclusiones.md)
 - [🤖 Uso de la IA Generativa](ia.md)
