@@ -1,5 +1,2 @@
-- [Diagrama de flujo](#diagrama-de-flujo)
-
-
-[Diagrma](https://github.com/danny77beltran/TeoriaDeLaProgramacion/blob/main/Unidad1.md#diagrama-de-flujo)
+[Diagrama de flujo](https://github.com/usuario/repositorio/blob/main/Unidad1.md#-diagrama-de-flujo)
 
