@@ -1,29 +1,36 @@
+<p align="center">
+  <img src="/mnt/data/1553b091-8bf6-419f-9eea-eff1f031c8e5.png" alt="Logo Universidad Nacional de Loja" width="150">
+</p>
 
-# UNIVERSIDAD NACIONAL DE LOJA
+# 🎓 UNIVERSIDAD NACIONAL DE LOJA
 
-<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/cf6dc649-4348-4592-bc0f-03588d1b18cf" />
+## Facultad de la Energía, las Industrias y los Recursos Naturales No Renovables
 
-## FACULTAD DE LA ENERGÍA, LAS INDUSTRIAS Y LOS RECURSOS NATURALES NO RENOVABLES
+---
 
-**ASIGNATURA:** TEORÍA DE LA PROGRAMACIÓN
+### 📚 Asignatura
+**Teoría de la Programación**
 
-UNIDAD: UNO
-TEMA: PORTAFOLIO DIGITAL DE APRENDIZAJE TEORÍA DE LA PROGRAMACIÓN.
-DOCENTE: DRA. LISSETTE LÓPEZ FAICAN
-ESTUDIANTE: DANNY FERNANDO BELTRÁN
-CARRERA: COMPUTACIÓN
-CICLO: PRIMERO
-AÑO LECTIVO
-2025 – 2026
+### 🏷 Unidad
+**UNO**
 
-# Algoritmos, pseudocódigo y diagrama de flujo
-## Algoritmo
-##### Un algoritmo es una serie de pasos ordenados que siguen una secuencia lógica para hallar una solución a un determinado problema.
+### 📝 Tema
+**Portafolio Digital de Aprendizaje: Teoría de la Programación**
 
-<img width="590" height="331" alt="image" src="https://github.com/user-attachments/assets/417e19b7-9787-4d33-a09c-b0d0709386f2" />
+### 👩‍🏫 Docente
+**Dra. Lissette López Faican**
 
-<img width="3840" height="2160" alt="Captura de pantalla (73)" src="https://github.com/user-attachments/assets/122aaeb0-9cf8-4fac-a64a-c8ac3640bf8c" />
+### 👨‍🎓 Estudiante
+**Danny Fernando Beltrán**
 
-[Enlace Taller 1](https://fernandomonroytenorio.com/tema/que-es-pseint/)
+### 💻 Carrera
+**Computación**
+
+### 🔢 Ciclo
+**Primero**
+
+### 📅 Año Lectivo
+**2025 – 2026**
+
 
 
