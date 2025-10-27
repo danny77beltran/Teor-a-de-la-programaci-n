@@ -1,3 +1,6 @@
+<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/cf6dc649-4348-4592-bc0f-03588d1b18cf" />
+
+
 # UNIVERSIDAD NACIONAL DE LOJA
 
 ## FACULTAD DE LA ENERGÍA, LAS INDUSTRIAS Y LOS RECURSOS NATURALES NO RENOVABLES
