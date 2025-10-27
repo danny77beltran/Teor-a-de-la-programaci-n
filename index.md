@@ -24,5 +24,11 @@
 - [💡 Reflexión crítica de los aprendizajes de la unidad](Unidad1.md#reflexión-crítica-de-los-aprendizajes-de-la-unidad)
   - [📝 Introducción](Unidad1.md#introducción)
   - [✅ Conclusiones](Unidad1.md#conclusiones)
+ 
+  - 
+- [🎓 Carátula](Unidad1.md#caratula)
+- [📚 Algoritmos](Unidad1.md#algoritmos)
+  - [🧩 Algoritmo](Unidad1.md#algoritmo)
+  - [📝 Pseudocódigo](Unidad1.md#pseudocodigo)
 
 
