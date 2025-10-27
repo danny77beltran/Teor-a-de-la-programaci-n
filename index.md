@@ -1,26 +1,2 @@
-
-# 📂 Índice
-
-- [Algoritmos, Pseudocódigo y Diagrama de Flujo](#algoritmos-pseudocódigo-y-diagrama-de-flujo)
-  - [Algoritmo](#algoritmo)
-  - [Pseudocódigo](#pseudocódigo)
-  - [Diagrama de flujo](#diagrama-de-flujo)
-  - [Problema planteado en pseudocódigo](#problema-planteado-en-pseudocódigo)
-- [Análisis del Problema](#análisis-del-problema)
-  - [Datos](#datos)
-  - [Pseudocódigo](#pseudocódigo-1)
-- [Representación en Diagrama de Flujo](#representación-en-diagrama-de-flujo)
-- [Programación por Bloques](#programación-por-bloques)
-  - [Elección del tipo de programación](#elección-del-tipo-de-programación)
-  - [Programación por Bloques con Animales](#programación-por-bloques-con-animales)
-- [Programación por Dirección](#programación-por-dirección)
-- [Ejemplos de Algoritmos con Estructuras Lineales/Secuenciales](#ejemplos-de-algoritmos-con-estructuras-linealessecuenciales)
-  - [Problema](#problema)
-  - [Análisis](#análisis-1)
-- [Problema 2: Distribución del Presupuesto en un Hospital](#problema-2-distribución-del-presupuesto-en-un-hospital)
-  - [Problema](#problema-1)
-  - [Análisis](#análisis-2)
-- [Principales dificultades](#principales-dificultades-en-la-aplicación-de-los-contenidos)
-- [Reflexión crítica de los aprendizajes](#reflexión-crítica-de-los-aprendizajes-de-la-unidad)
-- [Conclusiones](#conclusiones)
+[Diagrama de flujo](./Unidad1.md#diagrama-de-flujo)
 
