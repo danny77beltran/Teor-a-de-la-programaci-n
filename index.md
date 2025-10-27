@@ -1,27 +1,31 @@
-# Teoría de la programación
-## Portafolio digital
+# 📚 Índice de Contenidos
 
-### Unidad 1 
-[Unidad 1](Unidad1.md)
-### Unidad 2
-### Unidad 3
-### Conclusiones
-### Referencias
-### Uso de la Ia generativa
+## 📄 Portada
+- [🏫 Carátula](#carátula)
 
+## 📝 Introducción
+- [💻 Introducción](#introducción)
 
+## ⚠️ Principales dificultades
+- [❗ Principales dificultades en la aplicación de los contenidos](#principales-dificultades-en-la-aplicación-de-los-contenidos)
 
-# 🧠 Teoría de la Programación  
-## 💻 Conceptos básicos  
-### 🔣 Sintaxis y Semántica  
-#### ⚙️ Ejemplo en Python  
-##### 🧩 Explicación  
-###### 📚 Nota  
+## 🧩 Algoritmos y diagramas
+- [📊 Algoritmos, pseudocódigo y diagrama de flujo](#algoritmos-pseudocódigo-y-diagrama-de-flujo)
 
-# 💼 Portafolio Digital – Teoría de la Programación
+## 💻 Ejemplos de algoritmos
+- [🔹 Ejemplos de algoritmos lineales/secuenciales](#ejemplos-de-algoritmos-linealessecuenciales)
+- [🔹 Problema 2: Presupuesto hospitalario](#problema-2)
 
-## 📋 Índice de Unidades
-- [🧩 Unidad 1 –´[unidad1](Unidad1.md)
-- [Algoritmo](unidades/Unidad2.md)
-- [🧾 Conclusiones](conclusiones.md)
-- [🤖 Uso de la IA Generativa](ia.md)
+## 🟦 Programación por bloques
+- [🟦 Programación por bloques](#programación-por-bloques)
+- [🟩 Es bloque de rompecabezas](#es-bloque-consiste-en-realizar-una-programación-a-través-de-armar-rompecabezas-y-frases-que-identifican-a-cada-animal)
+
+## 🧭 Programación por dirección
+- [🧭 Programación por dirección](#programación-por-dirección)
+
+## 🔍 Reflexión crítica
+- [🧠 Reflexión crítica de los aprendizajes de la unidad](#reflexión-crítica-de-los-aprendizajes-de-la-unidad)
+
+## ✅ Conclusiones
+- [🏁 Conclusiones](#conclusiones)
+
