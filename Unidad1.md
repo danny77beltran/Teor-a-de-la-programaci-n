@@ -31,8 +31,7 @@
 ### 📅 Año Lectivo
 **2025 – 2026**
 
-# 📚 Algoritmos, Pseudocódigo y Diagrama de Flujo {#algoritmos-pseudocodigo-y-diagrama-de-flujo}
-
+# 📚 Algoritmos, Pseudocódigo y Diagrama de Flujo
 ---
 
 ##  Algoritmo
@@ -123,7 +122,7 @@ Este enfoque facilita la comprensión visual del algoritmo y permite identificar
 
 <img width="1330" height="2039" alt="Captura de pantalla (76)" src="https://github.com/user-attachments/assets/fbe333c4-baf5-4185-9eee-af01f9202c12" />
 
-# 🧩 Programación por Bloques {#programacion-bloques}
+# 🧩 Programación por Bloques 
 
 Consiste en realizar **algoritmos ordenados** utilizando **rompecabezas, colores, flechas**, y otros elementos visuales que facilitan la comprensión de la lógica de programación.  
 
