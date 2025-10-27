@@ -1,5 +1,5 @@
 - [Diagrama de flujo](#diagrama-de-flujo)
 
 
-[Diagrma]
-# 🎓 UNIVERSIDAD NACIONAL DE LOJA 
+[Diagrma](https://github.com/danny77beltran/TeoriaDeLaProgramacion/blob/main/Unidad1.md#diagrama-de-flujo)
+
