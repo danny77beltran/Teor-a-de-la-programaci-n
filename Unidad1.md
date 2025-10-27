@@ -88,7 +88,7 @@ El presupuesto anual debe ser repartido entre tres áreas de trabajo hospitalari
 
 ## ⚙️ Pseudocódigo
 
-```pseudocode
+pseudocode
 Definir sueldoG, sueldoT, sueldoP, pago Como Real;
 
 // Datos de entrada
