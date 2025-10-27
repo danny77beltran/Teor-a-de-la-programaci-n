@@ -22,3 +22,6 @@ AÑO LECTIVO
 
 <img width="590" height="331" alt="image" src="https://github.com/user-attachments/assets/417e19b7-9787-4d33-a09c-b0d0709386f2" />
 
+<img width="3840" height="2160" alt="Captura de pantalla (73)" src="https://github.com/user-attachments/assets/122aaeb0-9cf8-4fac-a64a-c8ac3640bf8c" />
+
+
