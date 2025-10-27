@@ -32,6 +32,8 @@
 **2025 – 2026**
 
 # 📚 Algoritmos, Pseudocódigo y Diagrama de Flujo
+
+[ver LGORITMO](algoritmo.md)
 ---
 
 ##  Algoritmo
