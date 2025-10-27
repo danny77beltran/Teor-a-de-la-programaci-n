@@ -1,7 +1,7 @@
 <img width="120" height="630" alt="UNL" src="https://github.com/user-attachments/assets/5939d355-c138-47dc-9d40-3dee0383f29a" />
 
 
-# 🎓 UNIVERSIDAD NACIONAL DE LOJA
+# 🎓 UNIVERSIDAD NACIONAL DE LOJA {#caratula}
 
 ## Facultad de la Energía, las Industrias y los Recursos Naturales No Renovables
 
@@ -31,7 +31,7 @@
 ### 📅 Año Lectivo
 **2025 – 2026**
 
-# 📚 Algoritmos, Pseudocódigo y Diagrama de Flujo
+# 📚 Algoritmos, Pseudocódigo y Diagrama de Flujo {#algoritmos-pseudocodigo-y-diagrama-de-flujo}
 
 ---
 
@@ -123,7 +123,7 @@ Este enfoque facilita la comprensión visual del algoritmo y permite identificar
 
 <img width="1330" height="2039" alt="Captura de pantalla (76)" src="https://github.com/user-attachments/assets/fbe333c4-baf5-4185-9eee-af01f9202c12" />
 
-# 🧩 Programación por Bloques
+# 🧩 Programación por Bloques {#programacion-bloques}
 
 Consiste en realizar **algoritmos ordenados** utilizando **rompecabezas, colores, flechas**, y otros elementos visuales que facilitan la comprensión de la lógica de programación.  
 
