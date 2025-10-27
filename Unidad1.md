@@ -24,4 +24,6 @@ AÑO LECTIVO
 
 <img width="3840" height="2160" alt="Captura de pantalla (73)" src="https://github.com/user-attachments/assets/122aaeb0-9cf8-4fac-a64a-c8ac3640bf8c" />
 
+[ENLACE DEBER 1](https://fernandomonroytenorio.com/tema/que-es-pseint/)
+
 
