@@ -35,7 +35,7 @@
 
 ---
 
-## 🧩 Algoritmo
+##  Algoritmo
 
 Un algoritmo es una serie de pasos ordenados que siguen una secuencia lógica para hallar una solución a un determinado problema.
 
