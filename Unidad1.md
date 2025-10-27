@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="/mnt/data/1553b091-8bf6-419f-9eea-eff1f031c8e5.png" alt="Logo Universidad Nacional de Loja" width="150">
-</p>
+<img width="840" height="630" alt="UNL" src="https://github.com/user-attachments/assets/5939d355-c138-47dc-9d40-3dee0383f29a" />
+
 
 # 🎓 UNIVERSIDAD NACIONAL DE LOJA
 
